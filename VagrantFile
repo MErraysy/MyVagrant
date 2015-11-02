@@ -7,7 +7,7 @@ myvagrantYaml = confDir + "/settings.yaml"
 require File.expand_path(File.dirname(__FILE__) + '/scripts/myvagrant.rb')
 
 Vagrant.configure(2) do |config|
-    if File.exists? myvagrantYamlPath then
+    if File.exists? myvagrantYaml then
         MyVagrant.configure(config, YAML::load(File.read(myvagrantYaml)))
     end
 end
