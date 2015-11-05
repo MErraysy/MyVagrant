@@ -2,7 +2,7 @@
 
 ## What is it ?
 
-I've never coded in ruby, and i wanted to create a customizable Vagrant Environment for my self where i can test my web projects, so i modified [Laravel/Homestead] (https://github.com/laravel/homestead) project to match my needs and i'm publishing it here so coders like me can enjoy it as well.
+I never coded in ruby, and i wanted to create a customizable Vagrant Environment for my self where i can test my web projects, so i've modified [Laravel/Homestead] (https://github.com/laravel/homestead) project to match my needs and i'm publishing it here so coders like me can enjoy it as well.
 
 ## How to use it ?
 
