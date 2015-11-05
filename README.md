@@ -21,7 +21,7 @@ git clone https://github.com/merraysy/myvagrant.git MyVagrant
 bash init.sh
 ```
 
-4. A 'settings.yaml' files must be created in this folder '~\'.myvagrant', edit it for your needs
+4. A 'settings.yaml' files must be created in this folder '~\\.myvagrant', edit it for your needs
 5. In 'MyVagrant' folder run vagrant with no provision flag first time until nginx server is installed :
 ```
 vagrant up --no-provision
