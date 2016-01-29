@@ -6,4 +6,4 @@ mkdir -p "$myvagrantRoot"
 
 cp -i src/settings.yaml "$myvagrantRoot/settings.yaml"
 
-echo "MyVagrant initialized."
+echo "myvagrant initialized."
